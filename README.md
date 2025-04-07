@@ -130,4 +130,4 @@ MIT License — View license
 
 ## 🧠 Author
 
-Built with ❤️ by [JoseLQB (Jose L Quintanilla Blanco)](https://github.com/JoseLQB)
+Built by [JoseLQB (Jose L Quintanilla Blanco)](https://github.com/JoseLQB)
