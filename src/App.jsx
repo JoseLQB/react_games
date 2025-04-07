@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import GameTable from "./components/GameTable";
 
-const API_KEY = "174a2852a6164f7aa213051c19bfa04a"; // Reemplaza con tu clave de RAWG
+const API_KEY = "YOUR_API_KEY"; // Reemplaza con tu clave de RAWG
 
 const fetchGameImage = async (title) => {
   try {
